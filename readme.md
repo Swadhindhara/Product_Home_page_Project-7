@@ -2,7 +2,7 @@
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link]()
+> ### **Live deployed website link** --> [Netlify link](https://product-home-page-liveproject-7.netlify.app/)
 
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,16 +12,16 @@
 </span>
 
 ## How website looks like
-<img src =/>
+<img src ="https://github.com/Swadhindhara/Product_Home_page_Project-7/blob/main/Final%20Output.png"/>
 
 ## What I have learned in this project?
-- I have learned how to make a beautiful html css template
-- I have learned about positioning of image in this project
-- I have learned about arranging buttons or adding styles
-Leanrt about flexbox and fontawesome icons.
+- I have learned about background image positioning
+- I have learned about positioning of discount content
+- I have learned about z-index
+- Learnt transitioning properties and animation
 
 
-## This project took around 2.5 hours to complete .
+## This project took around 2 hours to complete .
 
 ## Connect Me
 
